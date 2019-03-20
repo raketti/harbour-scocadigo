@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="fi_FI">
 <context>
     <name>About</name>
     <message>
@@ -11,12 +11,12 @@
     <message>
         <location filename="../qml/pages/About.qml" line="96"/>
         <source>SCOCADIGO is a scorecard app for Disc Golf. It is possible to add new players, courses and keep track of your Disc Golf rounds. Watch individual statistics and compare your scores with other players. Improve your game. Just play! Please be aware! you using an alpha version of scocadigo. There might be bugs! please report when you find one!</source>
-        <translation type="unfinished"></translation>
+        <translation>SCOCADIGO on tulosten kirjaamiseen tarkoitettu sovellus frisbeegolf radoille. Sovelluksessa on mahdollista lisätä pelaajia, ratoja ja seurata frisbeegolf kierroksia. Katso tilastoja ja vertaa tuloksiasi muihin pelaajiin. Paranna peliäsi - mene heittämään! Huomioithan että käytät alpha-versiota sovelluksesta. Sovelluksessa saattaa olla bugeja! Ilmoitathan löytyvistä bugeista!</translation>
     </message>
     <message>
         <location filename="../qml/pages/About.qml" line="131"/>
         <source>LICENSE: MIT </source>
-        <translation>LISENSSI: MIT</translation>
+        <translation>LISENSSI: MIT </translation>
     </message>
     <message>
         <location filename="../qml/pages/About.qml" line="169"/>
@@ -160,7 +160,7 @@
     <message>
         <location filename="../qml/pages/NewCourses.qml" line="70"/>
         <source>Course name</source>
-        <translation type="unfinished"></translation>
+        <translation>Radan nimi</translation>
     </message>
     <message>
         <location filename="../qml/pages/NewCourses.qml" line="82"/>
@@ -175,7 +175,7 @@
     <message>
         <location filename="../qml/pages/NewCourses.qml" line="125"/>
         <source>Baskets</source>
-        <translation type="unfinished"></translation>
+        <translation>Väyliä</translation>
     </message>
     <message>
         <location filename="../qml/pages/NewCourses.qml" line="125"/>
@@ -246,7 +246,7 @@
     <message>
         <location filename="../qml/pages/NewGameCourses.qml" line="169"/>
         <source>Average score: %L1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tulosten keskiarvo: %L1</translation>
     </message>
     <message>
         <location filename="../qml/pages/NewGameCourses.qml" line="180"/>
@@ -313,7 +313,7 @@
     <message>
         <location filename="../qml/pages/Players.qml" line="48"/>
         <source>DELETE ALL PLAYERS</source>
-        <translation>Pelaajat</translation>
+        <translation>Poista kaikki pelaajat</translation>
     </message>
     <message>
         <location filename="../qml/pages/Players.qml" line="55"/>
@@ -456,7 +456,7 @@
     <message>
         <location filename="../qml/pages/Round_Results.qml" line="179"/>
         <source>Time: </source>
-        <translation>Aika:</translation>
+        <translation>Aika: </translation>
     </message>
     <message>
         <location filename="../qml/pages/Round_Results.qml" line="313"/>
@@ -494,12 +494,12 @@
     <message>
         <location filename="../qml/pages/Round_Scorecard.qml" line="288"/>
         <source>player </source>
-        <translation>Pelaaja</translation>
+        <translation>Pelaaja </translation>
     </message>
     <message>
         <location filename="../qml/pages/Round_Scorecard.qml" line="309"/>
         <source>total </source>
-        <translation>Yhteensä</translation>
+        <translation>Yhteensä </translation>
     </message>
 </context>
 <context>
@@ -508,12 +508,12 @@
         <location filename="../qml/pages/Settings.qml" line="23"/>
         <location filename="../qml/pages/Settings.qml" line="45"/>
         <source>DELETE EVERYTHING</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista kaikki</translation>
     </message>
     <message>
         <location filename="../qml/pages/Settings.qml" line="51"/>
         <source>ABOUT</source>
-        <translation type="unfinished"></translation>
+        <translation>Tietoja</translation>
     </message>
     <message>
         <location filename="../qml/pages/Settings.qml" line="93"/>
